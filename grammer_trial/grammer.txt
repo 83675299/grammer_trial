@@ -1,0 +1,9 @@
+e->e+e
+e->e-e
+e->e*e
+e->e/e
+e->e^f
+e->f
+f->id
+f->num
+f->(e)
